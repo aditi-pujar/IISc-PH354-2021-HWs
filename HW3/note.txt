@@ -1,0 +1,3 @@
+In Q8, the code is not printing the distance
+In Q10, analytic calculations are correct. Numerical solution doesn't seem right.
+In Q11, solution doesn't seem right.
